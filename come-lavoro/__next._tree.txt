@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/2aflws-tyehvc.css","style"]
+:HL["/_next/static/chunks/3tda_pnb00ywv.css","style"]
 :HL["/_next/static/media/01e4147cff8141ee-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/8bd76523131fa0fc-s.p.1pvupmngxrt5z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/c47649aa31f9e140-s.p.3lxpqujs87tck.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/images/ufficio-ritratto.webp","image",{"fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(it)","param":null,"prefetchHints":4144,"slots":{"children":{"name":"come-lavoro","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"JVf3xslxl3rGW2XnBSkLL"}
+:HL["/images/scrivania-4x5.webp","image",{"fetchPriority":"high"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(it)","param":null,"prefetchHints":4144,"slots":{"children":{"name":"come-lavoro","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"rXU_QZKSfcIIYWCK9oRlN"}
