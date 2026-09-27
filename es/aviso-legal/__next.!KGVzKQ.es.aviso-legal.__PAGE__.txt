@@ -1,0 +1,50 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+8:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+6:X
+27:X
+27:C
+0:{"buildId":"JVf3xslxl3rGW2XnBSkLL","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"mx-auto max-w-[46rem] px-6 pt-36 pb-24 md:pt-44","children":[["$","p",null,{"className":"occhiello","children":"Información legal"}],["$","h1",null,{"className":"mt-7 font-serif text-titolo font-medium text-crema","children":"Aviso legal"}],["$","p",null,{"className":"mt-4 text-[0.85rem] text-crema/55","children":["Última actualización:"," ","26 de septiembre de 2026"]}],["$","div",null,{"className":"testo-legale mt-12 space-y-10 text-[1rem] leading-relaxed font-light text-crema/80 [&_a]:text-oro-chiaro [&_a]:underline [&_a]:underline-offset-4 [&_h2]:font-serif [&_h2]:text-[1.6rem] [&_h2]:font-medium [&_h2]:text-crema [&_li]:mt-2 [&_p]:mt-3 [&_strong]:font-medium [&_strong]:text-crema [&_ul]:mt-3 [&_ul]:list-disc [&_ul]:pl-5","children":[["$","section",null,{"children":[["$","h2",null,{"children":"Quién es el titular del sitio web"}],["$","ul",null,{"children":[["$","li",null,{"children":[["$","strong",null,{"children":"Titular:"}]," ","Giuseppe Notarnicola"]}],["$","li",null,{"children":[["$","strong",null,{"children":"NIE:"}]," ","Y4918263A"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Domicilio:"}]," ","Calle Los Pinos 3, puerta 463, 35100 San Bartolomé de Tirajana (Las Palmas), España"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Correo electrónico:"}]," ",["$","a",null,{"href":"mailto:info@giuseppenotarnicola.com","children":"info@giuseppenotarnicola.com"}]]}],["$","li",null,{"children":[["$","strong",null,{"children":"WhatsApp:"}]," ","+39 328 92 66 107"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Actividad:"}]," asesoramiento y acompañamiento individual en salud, alimentación, entrenamiento y estilo de vida."]}]]}]]}],["$","section",null,{"children":[["$","h2",null,{"children":"Los contenidos de este sitio web"}],["$","p",null,{"children":"Lo que encuentras aquí tiene una finalidad informativa y educativa. No sustituye el consejo de tu médico: no hago diagnósticos ni prescribo medicamentos. Si tienes alguna condición médica, consúltalo antes con tu médico."}],["$","p",null,{"children":"El Test de Alineación es una herramienta de autoevaluación sobre el bienestar general: el resultado es una orientación, no una valoración clínica."}]]}],["$","section",null,{"children":[["$","h2",null,{"children":"Textos, fotografías y marca"}],["$","p",null,{"children":["Los textos, las fotografías, el logotipo y el diseño gráfico de este sitio web pertenecen a ","Giuseppe Notarnicola",". No pueden copiarse ni reutilizarse sin su autorización por escrito. Los testimonios se publican con el consentimiento de las personas que los han dado."]}]]}],["$","section",null,{"children":[["$","h2",null,{"children":"Enlaces a otros sitios web"}],["$","p",null,{"children":"Este sitio web contiene enlaces a servicios externos, como WhatsApp y las redes sociales. En esos sitios se aplican las condiciones y las políticas de privacidad de sus respectivos titulares."}]]}],["$","section",null,{"children":[["$","h2",null,{"children":"Legislación aplicable"}],["$","p",null,{"children":"Este sitio web se rige por la legislación española, en particular por la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico (LSSI-CE). Los consumidores conservan la protección que les reconoce la normativa del país en el que residen."}]]}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0a0a0b"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Aviso legal · Giuseppe Notarnicola"}],["$","meta","1",{"name":"description","content":"Datos del titular del sitio web giuseppenotarnicola.com y condiciones de uso."}],"$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22"]}]}]}],"$L23"]}],"isPartial":"$@24","staleTime":"$6","varyParams":null},{"rsc":"$L25","isPartial":"$@26","staleTime":"$6","varyParams":"$27"},{"rsc":"$L28","isPartial":"$@29","staleTime":"$6","varyParams":"$27"}],"isUpgradeableISRFallback":false,"a":"$@2a","rootVaryParams":null,"needsRuntimeRequest":"$@2b"}
+2c:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+2d:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+2e:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+4:null
+9:["$","meta","2",{"name":"application-name","content":"Giuseppe Notarnicola"}]
+a:["$","meta","3",{"name":"author","content":"Giuseppe Notarnicola"}]
+b:["$","meta","4",{"name":"robots","content":"noindex, nofollow"}]
+c:["$","link","5",{"rel":"canonical","href":"https://giuseppenotarnicolafit.github.io/es/aviso-legal/"}]
+d:["$","link","6",{"rel":"alternate","hrefLang":"it-IT","href":"https://giuseppenotarnicolafit.github.io/note-legali/"}]
+e:["$","link","7",{"rel":"alternate","hrefLang":"es-ES","href":"https://giuseppenotarnicolafit.github.io/es/aviso-legal/"}]
+f:["$","link","8",{"rel":"alternate","hrefLang":"x-default","href":"https://giuseppenotarnicolafit.github.io/note-legali/"}]
+10:["$","meta","9",{"property":"og:title","content":"Aviso legal · Giuseppe Notarnicola"}]
+11:["$","meta","10",{"property":"og:description","content":"Datos del titular del sitio web giuseppenotarnicola.com y condiciones de uso."}]
+12:["$","meta","11",{"property":"og:url","content":"https://giuseppenotarnicolafit.github.io/es/aviso-legal/"}]
+13:["$","meta","12",{"property":"og:site_name","content":"Giuseppe Notarnicola"}]
+14:["$","meta","13",{"property":"og:locale","content":"es_ES"}]
+15:["$","meta","14",{"property":"og:image","content":"https://giuseppenotarnicolafit.github.io/opengraph-image.jpg"}]
+16:["$","meta","15",{"property":"og:image:width","content":"1200"}]
+17:["$","meta","16",{"property":"og:image:height","content":"630"}]
+18:["$","meta","17",{"property":"og:image:alt","content":"Giuseppe Notarnicola, Health Performance Specialist"}]
+19:["$","meta","18",{"property":"og:locale:alternate","content":"it_IT"}]
+1a:["$","meta","19",{"property":"og:type","content":"website"}]
+1b:["$","meta","20",{"name":"twitter:card","content":"summary_large_image"}]
+1c:["$","meta","21",{"name":"twitter:title","content":"Aviso legal · Giuseppe Notarnicola"}]
+1d:["$","meta","22",{"name":"twitter:description","content":"Datos del titular del sitio web giuseppenotarnicola.com y condiciones de uso."}]
+1e:["$","meta","23",{"name":"twitter:image","content":"https://giuseppenotarnicolafit.github.io/opengraph-image.jpg"}]
+1f:["$","link","24",{"rel":"icon","href":"/favicon.ico?favicon.1hfcowqi0zyjj.ico","sizes":"48x48","type":"image/x-icon"}]
+20:["$","link","25",{"rel":"icon","href":"/icon.png?icon.05_yxdreggcp5.png","sizes":"512x512","type":"image/png"}]
+21:["$","link","26",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.09t-rwe1it2ov.png","sizes":"180x180","type":"image/png"}]
+22:["$","$L2c","27",{}]
+23:["$","meta",null,{"name":"next-size-adjust","content":""}]
+25:["$","$1","c",{"children":[null,["$","$L2d",null,{"parallelRouterKey":"children","template":["$","$L2e",null,{}]}]]}]
+28:["$","$1","c",{"children":[null,["$","$L2d",null,{"parallelRouterKey":"children","template":["$","$L2e",null,{}]}]]}]
+2b:true
+6:300
+6:C
+2a:0
+24:"$undefined"
+26:"$undefined"
+29:"$undefined"
+5:"$undefined"
